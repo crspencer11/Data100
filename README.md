@@ -1,2 +1,2 @@
-# Data100
-Principles and Techniques of Data Science UC Berkeley
+# UC Berkeley: Data 100
+Principles and Techniques of Data Science
